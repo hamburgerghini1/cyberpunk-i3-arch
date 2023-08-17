@@ -35,10 +35,10 @@ sudo pacman -S feh imagemagick ffmpeg
 echo -e "\nInstalling neofetch...\n"
 sudo pacman -S neofetch
 
-# brave-browser
-echo -e "\nInstalling Dependencies for brave-browser...\n"
+# vivaldi
+echo -e "\nInstalling Dependencies for vivaldi...\n"
 sudo pacman -S curl
-yay -S brave-bin
+yay -S vivaldi
 
 # w3m
 echo -e "\nInstalling w3m...\n"
