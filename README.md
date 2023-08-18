@@ -19,7 +19,7 @@
 # 🙆‍♂ Installing dependecies
 
 ```bash
-cd kali-punk
+cd cyberpunk-i3-arch
 sudo bash install.sh
 ```
 <h4>If you get any errors in this auto installation script then please go through the manual way (See Down, I explained how to install every package clearly)</h4> 
